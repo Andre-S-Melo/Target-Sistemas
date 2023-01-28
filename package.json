@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "req01": "node src/questions/question-01.js",
+    "req02": "node src/questions/question-02.js",
+    "req03": "node src/questions/question-03.js",
+    "req04": "node src/questions/question-04.js",
+    "req05": "node src/questions/question-05.js"
+
   },
   "keywords": [],
   "author": "",
