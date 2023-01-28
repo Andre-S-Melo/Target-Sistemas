@@ -4,7 +4,16 @@
 
 Foi utilizado a linguagem de programação JavaScript para o desenvolvimento do Desafio Técnico.
 
-## Como executar:
+## Tecnologias utilizadas
+> JavaScript
+> Node.Js
+
+## Instalando as dependências do projeto
+```
+npm install
+```
+
+## Executando aplicação:
 
 ### Requisito 01
 ~~~bash
